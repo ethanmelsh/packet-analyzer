@@ -1,6 +1,6 @@
 # Packet Analyzer
 
-This repository contains a simple packet analysis tool written in Python.  It uses the `scapy` library to sniff network packets on the local interface and then summarises the results by protocol.  The script is intended as a minimal example of network‑traffic analysis for educational and monitoring purposes.
+Simple packet analysis tool written in Python.  It uses the `scapy` library to sniff network packets on the local interface and then summarises the results by protocol.  The script is intended as a minimal example of network‑traffic analysis for educational and monitoring purposes.
 
 ## Features
 
